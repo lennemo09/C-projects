@@ -1,13 +1,13 @@
 # C-projects
 Some projects written in C.
 
-File Utility Program Documentation
+## 1. File Utility Program Documentation
 --------------------------------------------------------------------------------
-HOW TO COMPILE:
+## HOW TO COMPILE:
 This program an be compiled from terminal using GCC:
 $ gcc fileutil.c -o fileutil
 --------------------------------------------------------------------------------
-HOW TO RUN AND USE THE PROGRAM:
+## HOW TO RUN AND USE THE PROGRAM:
 To run the program, use the following command:
 $./fileutil [absolute source file path](*) [extra parameters](**)
 (*): If no source file given, it will defaults to 'logfile.txt' from current
