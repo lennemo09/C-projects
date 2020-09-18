@@ -1,11 +1,3 @@
-/*
-Student Name: Ha Tri Nhan Luong
-Student ID: 29644364
-
-FIT2100 - Operating System
-Assignment 1:
-File Utility Program
-*/
 #include <stdlib.h>
 #include <sys/file.h>
 #include <unistd.h>
